@@ -1,0 +1,640 @@
+Gender,AgeGroup,smokinghabit,numfamlung,inistage,result1,result1_CUI,relprog1,phartreat1,phartreatstartdate1,numcycles1,schema1,response_pharmtreat1_CUI
+Male,64 - 90,Active Smoker,,IIB,,,No progression,Intravenous and oral chemotherapy,23/09/2011,4.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Female,30 - 49,Active Smoker,1.0,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,28/10/2011,3.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,No Smoker (<100 cigarettes/life time),,IIIB,Negative,C4725782,Progression,Sequential chemotherapy-radiotherapy,28/11/2012,4.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Female,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,11/02/2010,6.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),1.0,IIIA,,,Progression,Adjuvant chemotherapy,12/07/2016,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous chemotherapy,09/11/2016,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Targeted oral therapy,09/09/2016,7.0,['Afatinib'],EE - C0677946
+Male,49 - 64,Active Smoker,,IA,non-traslocated FISH,C1332080/C0162789/C4525179,Relapse,Concomitant chemotherapy-radiotherapy,25/01/2017,6.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),2.0,IV,,,No information,Intravenous and oral chemotherapy,26/03/2018,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIIC,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Concomitant chemotherapy-radiotherapy,06/09/2018,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,10/03/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,03/09/2015,1.0,"['Carboplatin', 'Paclitaxel']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Immunotherapy,07/02/2020,,['Pembrolizumab'],RP - C1275833
+Female,64 - 90,Active Smoker,,IIIB,,,Relapse,Intravenous and oral chemotherapy,06/02/2012,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,22/03/2012,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IVB,,,Progression,Intravenous chemotherapy,03/12/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Sequential chemotherapy-radiotherapy,01/06/2017,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,05/07/2010,6.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,22/01/2013,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,29/05/2009,8.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IIIA,,,Progression,Neoadjuvant chemotherapy,07/09/2016,2.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy,29/12/2011,5.0,"['Carboplatin', 'Paclitaxel', 'Bevacizumab']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIB,,,Progression,Intravenous chemotherapy,01/09/2020,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Active Smoker,2.0,IIIB,,,No progression,Neoadjuvant chemotherapy,12/01/2018,3.0,"['Carboplatin', 'Vinorelbine']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,09/04/2009,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,,,Progression,Intravenous chemotherapy,06/07/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,30 - 49,Active Smoker,,IV,,,No progression,Intravenous chemotherapy,26/01/2018,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,,,No information,Intravenous chemotherapy,12/07/2017,1.0,"['Carboplatin', 'Paclitaxel']",NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIB,,,No progression,Adjuvant chemotherapy,02/06/2016,2.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Female,64 - 90,Active Smoker,0.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,26/06/2020,2.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,17/06/2015,3.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,,IVA,,,Progression,Intravenous chemotherapy,02/02/2018,4.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,,,Progression,Adjuvant chemotherapy,04/08/2017,1.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,Negative,C4725782,Progression,Sequential chemotherapy-radiotherapy,19/03/2014,2.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),1.0,IV,Negative,C4054670,Progression,Intravenous chemotherapy,15/06/2018,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,06/07/2010,4.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IV,,,Progression,Sequential chemotherapy-radiotherapy,25/05/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Adjuvant chemotherapy,03/02/2010,4.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,No Smoker (<100 cigarettes/life time),,IIIA,,,Progression,Concomitant chemotherapy-radiotherapy,04/03/2009,4.0,"['Carboplatin', 'Docetaxel']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,28/01/2019,4.0,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",EE - C0677946
+Male,64 - 90,Unknown,,IV,,,Progression,Intravenous chemotherapy,11/05/2009,4.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIA,,,No progression,Adjuvant chemotherapy,01/09/2017,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,15/04/2020,1.0,['Pembrolizumab'],NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),4.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,25/05/2018,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,05/03/2019,3.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,1.0,IV,,,Progression,Intravenous chemotherapy,15/09/2015,3.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IIA,,,Relapse,Oral chemotherapy,10/10/2019,,['Everolimus'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IA,,,Relapse,Intravenous chemotherapy,21/11/2016,4.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,No information,Intravenous and oral chemotherapy,21/03/2018,,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,49 - 64,Active Smoker,0.0,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Adjuvant chemotherapy,01/05/2008,4.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,16/03/2015,6.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Unknown,,IV,,,Progression,Intravenous and oral chemotherapy,30/03/2010,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Exon 21,C4289654,Progression,Targeted oral therapy,08/11/2016,,['Erlotinib'],RP - C1275833
+Male,49 - 64,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,07/07/2015,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,14/12/2015,1.0,"['Carboplatin', 'Pemetrexed']",NE - C1883425
+Male,49 - 64,Active Smoker,0.0,IIIA,,,No progression,Sequential chemotherapy-radiotherapy,05/06/2019,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,,IV,Negative,C4725782,,Intravenous chemotherapy,24/09/2015,3.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,Positive,C4284303,,Neoadjuvant chemotherapy,19/10/2020,3.0,"['Carboplatin', 'Paclitaxel', 'Nivolumab']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Neoadjuvant chemotherapy,10/07/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IIIC,,,No progression,Intravenous chemotherapy,17/03/2020,2.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,30 - 49,Former Smoker (> 1 year),4.0,IB,Negative IHQ,C1332080/C0021044/C0205160,Relapse,Adjuvant chemotherapy,04/09/2009,3.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Adjuvant chemotherapy,07/12/2012,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IIIA,,,Progression,Neoadjuvant chemotherapy,01/03/2011,3.0,"['Cisplatin', 'Gemcitabine']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,26/04/2019,,['Erlotinib'],RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,26/05/2010,5.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,04/07/2011,5.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),1.0,IV,Negative IHQ,C1332080/C0021044/C0205160,,Adjuvant chemotherapy,31/08/2012,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Female,49 - 64,Former Smoker (> 1 year),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,23/09/2019,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Immunotherapy,07/09/2020,8.0,['Pembrolizumab'],NR - C0445106
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,26/07/2016,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IV,,,No progression,Intravenous and oral chemotherapy,15/04/2014,6.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),2.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,08/07/2020,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,02/07/2008,6.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),1.0,IIIB,,,Progression,Intravenous and oral chemotherapy,13/11/2014,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,02/04/2018,4.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,Progression,Concomitant chemotherapy-radiotherapy,12/04/2010,2.0,"['Cisplatin', 'Etoposide VP16']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),,IIIC,,,Progression,Intravenous and oral chemotherapy,16/01/2013,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIA,,,Progression,Sequential chemotherapy-radiotherapy,25/05/2016,4.0,"['Cisplatin', 'Ganetespib']",PR - C0242656
+Male,49 - 64,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,12/04/2010,7.0,['Erlotinib'],EE - C0677946
+Female,49 - 64,Former Smoker (> 1 year),0.0,IVA,,,Progression,Intravenous chemotherapy,07/12/2018,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),1.0,IIIB,,,No progression,Intravenous and oral chemotherapy,19/09/2016,3.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,,IV,,,No information,Intravenous and oral chemotherapy,17/09/2012,1.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,18/07/2008,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,30/07/2013,6.0,"['Cisplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IB,,,No progression,Adjuvant chemotherapy,09/02/2015,1.0,"['Carboplatin', 'Paclitaxel']",NR - C0445106
+Male,64 - 90,Active Smoker,,IV,,,No information,Intravenous and oral chemotherapy,05/01/2009,2.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,13/07/2009,8.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,25/04/2012,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Unknown,,IV,,,Progression,Intravenous and oral chemotherapy,15/06/2012,6.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,49 - 64,Former Smoker (> 1 year),,IIA,,,No progression,Adjuvant chemotherapy,16/11/2016,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Active Smoker,0.0,IIIA,,,No progression,Adjuvant chemotherapy,05/01/2016,1.0,"['Carboplatin', 'Vinorelbine']",NE - C1883425
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IIA,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Adjuvant chemotherapy,16/03/2015,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Female,49 - 64,Active Smoker,3.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,27/07/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),1.0,Extended,,,Progression,Intravenous chemotherapy,14/06/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,Negative,C4725782,Progression,Concomitant chemotherapy-radiotherapy,03/09/2013,4.0,"['Vinorelbine', 'Cisplatin']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,03/03/2009,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Neoadjuvant chemotherapy,04/05/2017,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IV,Exon 19,C4289656,Progression,Targeted oral therapy,28/07/2014,12.0,['Gefitinib'],RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),1.0,IIIA,Negative,C4725782,No progression,Adjuvant chemotherapy,04/03/2016,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Female,64 - 90,Active Smoker,1.0,IV,,,Progression,Intravenous chemotherapy,03/08/2018,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),,IVB,,,Progression,Intravenous chemotherapy,23/05/2017,3.0,"['Carboplatin', 'Gemcitabine']",NR - C0445106
+Female,64 - 90,Former Smoker (> 1 year),,IIIA,,,No progression,Sequential chemotherapy-radiotherapy,06/06/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Neoadjuvant chemotherapy,24/08/2015,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,04/05/2017,3.0,"['Carboplatin', 'Pemetrexed']",NE - C1883425
+Female,30 - 49,Active Smoker,0.0,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,02/08/2010,2.0,"['Cisplatin', 'Etoposide VP16']",PR - C0242656
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IVB,,,Progression,Intravenous chemotherapy,03/10/2018,4.0,"['Etoposide VP16', 'Carboplatin']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,15/05/2013,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,19/03/2014,3.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,No information,Intravenous and oral chemotherapy,27/04/2012,1.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,21/09/2017,3.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Female,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,09/07/2009,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,12/05/2014,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Targeted oral therapy,08/04/2016,10.0,['Gefitinib'],RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IIB,,,Relapse,Immunotherapy,25/07/2017,3.0,"['Ipilimumab', 'Nivolumab']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,Exon 19,C4289656,Progression,Targeted oral therapy,21/07/2014,4.0,['Gefitinib'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,No information,Intravenous and oral chemotherapy,13/04/2011,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Female,49 - 64,Active Smoker,,IVB,,,Progression,Intravenous chemotherapy,18/12/2018,4.0,"['Cisplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,1.0,IA,Positive,C4284303,,Adjuvant chemotherapy,15/05/2020,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Active Smoker,1.0,IV,Exon 19,C4289656,Progression,Targeted oral therapy,27/10/2017,,['Afatinib'],EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),1.0,IIIB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,11/06/2010,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,11/02/2020,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIB,,,Progression,Intravenous chemotherapy,06/09/2010,3.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Female,64 - 90,Active Smoker,0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,02/08/2013,32.0,"['Carboplatin', 'Paclitaxel', 'Bevacizumab']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIA,,,Relapse,Intravenous and oral chemotherapy,18/09/2013,4.0,"['Cisplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Immunotherapy,18/05/2017,6.0,"['Ipilimumab', 'Nivolumab']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIB,Other,,Relapse,Adjuvant chemotherapy,03/12/2013,4.0,"['Vadimezan (ASA404)', 'Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,,,Progression,Intravenous chemotherapy,29/09/2017,4.0,['Vinorelbine'],RP - C1275833
+Female,49 - 64,Active Smoker,,IV,,,No progression,Intravenous and oral chemotherapy,18/01/2010,2.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,08/11/2018,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Female,49 - 64,Active Smoker,1.0,IIIA,,,No progression,Neoadjuvant chemotherapy,13/06/2016,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,16/09/2015,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,28/05/2010,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Active Smoker,,IA,,,Progression,Intravenous chemotherapy,09/11/2018,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),4.0,IIIA,,,Progression,Neoadjuvant chemotherapy,23/10/2015,3.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,49 - 64,Active Smoker,,IB,,,Progression,Adjuvant chemotherapy,02/07/2018,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Active Smoker,,IV,Exon 19,C4289656,Progression,Targeted oral therapy,03/05/2018,2.0,['Gefitinib'],EE - C0677946
+Male,64 - 90,Active Smoker,,IIIB,,,,Sequential chemotherapy-radiotherapy,29/09/2015,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIIA,Negative,C4725782,Progression,Neoadjuvant chemotherapy,15/03/2013,3.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Female,49 - 64,Active Smoker,1.0,IIA,,,No progression,Adjuvant chemotherapy,05/10/2016,4.0,"['Carboplatin', 'Paclitaxel']",RC - C1275810
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,Negative IHQ,C1332080/C0021044/C0205160,No progression,Adjuvant chemotherapy,30/03/2015,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,30/12/2016,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,No Smoker (<100 cigarettes/life time),,IIIB,,,,Sequential chemotherapy-radiotherapy,28/05/2009,2.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,26/03/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,02/02/2015,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,Progression,Intravenous chemotherapy,25/08/2015,4.0,"['Carboplatin', 'Paclitaxel', 'Veliparib(ABT-888)']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,08/07/2010,3.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Female,30 - 49,No Smoker (<100 cigarettes/life time),,IV,Exon 21,C4289654,Progression,Targeted oral therapy,21/08/2015,,['Erlotinib'],RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IV,Negative,C4725782,Progression,Intravenous chemotherapy,29/09/2017,4.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,49 - 64,Active Smoker,,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,,Neoadjuvant chemotherapy,28/03/2018,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Female,49 - 64,Active Smoker,0.0,IIIB,,,Progression,Intravenous and oral chemotherapy,30/06/2017,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Active Smoker,1.0,IV,,,Progression,Intravenous chemotherapy,01/12/2009,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),1.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,05/06/2020,3.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,11/01/2019,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,Extended,,,Progression,Intravenous chemotherapy,05/05/2020,4.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,19/06/2020,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),2.0,Limited,,,Progression,Intravenous chemotherapy,03/03/1997,3.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Male,64 - 90,Active Smoker,,IIIB,,,Progression,Intravenous and oral chemotherapy,16/12/2014,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,49 - 64,Active Smoker,1.0,IIIA,,,Progression,Neoadjuvant chemotherapy,17/08/2009,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IIB,,,Progression,Concomitant chemotherapy-radiotherapy,23/04/2014,7.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,,,,Neoadjuvant chemotherapy,03/02/2015,3.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIA,,,Relapse,Sequential chemotherapy-radiotherapy,13/07/2016,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,,Intravenous chemotherapy,21/01/2015,2.0,"['Carboplatin', 'Paclitaxel']",NE - C1883425
+Male,49 - 64,Active Smoker,0.0,IIA,,,Progression,Adjuvant chemotherapy,28/01/2015,4.0,"['Cisplatin', 'Vinorelbine']",NE - C1883425
+Female,49 - 64,Active Smoker,1.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Adjuvant chemotherapy,15/05/2018,,['Afatinib'],EE - C0677946
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,12/01/2017,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,18/11/2019,,['Osimertinib'],RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IIIC,Negative,C4054670,Progression,Intravenous and oral chemotherapy,14/04/2020,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IV,Exon 19,C4289656,Progression,Targeted oral therapy,06/06/2018,,['Erlotinib'],PR - C0242656
+Female,49 - 64,Former Smoker (> 1 year),0.0,IV,,,No progression,Neoadjuvant chemotherapy,28/01/2016,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,30 - 49,Former Smoker (> 1 year),,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,09/01/2006,6.0,"['Cisplatin', 'Gemcitabine', 'Bevacizumab vs Placebo']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IVB,,,Progression,Intravenous and oral chemotherapy,14/01/2010,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,,,No progression,Neoadjuvant chemotherapy,30/08/2017,3.0,"['Carboplatin', 'Paclitaxel', 'Nivolumab']",RP - C1275833
+Male,64 - 90,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,26/05/2014,6.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,09/11/2017,3.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,09/01/2019,2.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,No Smoker (<100 cigarettes/life time),,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,11/09/2018,,['Erlotinib'],EE - C0677946
+Female,64 - 90,Active Smoker,0.0,IIIC,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Intravenous chemotherapy,05/04/2019,2.0,"['Carboplatin', 'Vinorelbine']",NE - C1883425
+Female,30 - 49,No Smoker (<100 cigarettes/life time),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,21/08/2019,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,12/01/2016,6.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),2.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Targeted oral therapy,03/02/2020,,['Osimertinib'],NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,Negative IHQ,C1332080/C0021044/C0205160,No information,Neoadjuvant chemotherapy,03/04/2018,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,10/02/2014,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),,IVA,,,Progression,Intravenous chemotherapy,20/07/2017,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,15/07/2018,4.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Active Smoker,,IIIB,Not detected,C0812241/C0442737,Progression,Intravenous chemotherapy,13/04/2010,4.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IIIB,,,Progression,Intravenous and oral chemotherapy,10/10/2019,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,30 - 49,Active Smoker,0.0,IIIA,,,Progression,Sequential chemotherapy-radiotherapy,11/03/2015,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIIB,,,Progression,Adjuvant chemotherapy-radiotherapy,20/11/2017,5.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Male,49 - 64,Active Smoker,0.0,IIIA,,,Progression,Neoadjuvant chemotherapy,20/10/2010,5.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,Limited,,,Progression,Intravenous and oral chemotherapy,09/12/2008,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,15/10/2019,9.0,['Pembrolizumab'],EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIA,,,No progression,Adjuvant chemotherapy,09/07/2018,4.0,['Carboplatin'],RC - C1275810
+Male,49 - 64,Active Smoker,0.0,IIB,,,No progression,Adjuvant chemotherapy,02/12/2016,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Female,49 - 64,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,26/04/2019,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,27/02/2015,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,,IIB,Negative IHQ,C1332080/C0021044/C0205160,,Adjuvant chemotherapy,09/02/2012,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,Negative,C4725782,Progression,Intravenous chemotherapy,30/07/2019,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,,,Progression,Neoadjuvant chemotherapy,02/12/2010,6.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,06/10/2014,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IIIC,,,Progression,Intravenous and oral chemotherapy,19/01/2015,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,08/08/2017,3.0,['Pemetrexed'],PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IIIA,,,Progression,Sequential chemotherapy-radiotherapy,21/10/2009,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,30 - 49,No Smoker (<100 cigarettes/life time),,IIIB,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Sequential chemotherapy-radiotherapy,24/11/2011,6.0,"['Cisplatin', 'Gemcitabine']",RP - C1275833
+Male,64 - 90,Active Smoker,,IVA,,,Progression,Intravenous chemotherapy,01/03/2019,1.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,No Smoker (<100 cigarettes/life time),2.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,17/05/2019,,['Erlotinib'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,No progression,Adjuvant chemotherapy,09/02/2018,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Female,64 - 90,Active Smoker,,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Adjuvant chemotherapy,10/09/2015,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,19/08/2009,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,31/07/2015,4.0,['Vinorelbine'],PR - C0242656
+Female,49 - 64,Active Smoker,,IV,,,,Sequential chemotherapy-radiotherapy,15/06/2008,5.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,49 - 64,Active Smoker,0.0,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,19/01/2011,6.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,1.0,IV,,,,Intravenous chemotherapy,08/06/2015,2.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Female,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,02/08/2016,32.0,['Nivolumab'],PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),1.0,IV,Negative T790M,C4329762,Progression,Targeted oral therapy,12/09/2017,,['Afatinib'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,Limited,,,No progression,Intravenous chemotherapy,17/08/2009,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,,IB,,,No progression,Adjuvant chemotherapy,15/06/2008,4.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Relapse,Neoadjuvant chemotherapy,12/06/2014,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous chemotherapy + immunotherapy,21/10/2013,4.0,"['Carboplatin', 'Etoposide VP16', 'Ipilimumab']",RP - C1275833
+Male,64 - 90,Active Smoker,,IV,Negative,C4725782,Progression,Intravenous chemotherapy,05/01/2017,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVA,,,Progression,Intravenous chemotherapy,07/09/2017,4.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,22/11/2017,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIC,,,Progression,Intravenous chemotherapy,08/02/2019,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Active Smoker,1.0,IIIB,,,Progression,Intravenous chemotherapy,04/09/2020,4.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,30 - 49,Former Smoker (> 1 year),0.0,IVA,,,Progression,Intravenous chemotherapy,28/02/2020,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,16/12/2009,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,19/02/2014,1.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,03/09/2015,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVB,,,Progression,Intravenous chemotherapy + immunotherapy,18/05/2017,4.0,"['Nivolumab', 'Cisplatin']",PR - C0242656
+Male,64 - 90,Active Smoker,,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Relapse,Adjuvant chemotherapy,08/01/2010,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Active Smoker,,IIIA,Negative IHQ,C1332080/C0021044/C0205160,No information,Neoadjuvant chemotherapy,27/02/2012,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,11/09/2012,,['Erlotinib'],PR - C0242656
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,11/11/2014,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,10/10/2018,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous and oral chemotherapy,27/08/2008,6.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IVA,,,Progression,Intravenous chemotherapy,11/05/2018,6.0,"['Carboplatin', 'Etoposide VP16', 'Veliparib(ABT-888)']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,17/07/2018,2.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,No progression,Intravenous chemotherapy,20/12/2013,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,2.0,IV,,,Progression,Intravenous and oral chemotherapy,27/06/2012,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,,,Progression,Intravenous chemotherapy,16/10/2018,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,No information,Neoadjuvant chemotherapy,09/02/2018,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,04/03/2015,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,30 - 49,Active Smoker,0.0,IIIB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,22/06/2015,3.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Active Smoker,2.0,IVB,Positive,C4284303,Progression,Immunotherapy,24/08/2018,3.0,,PR - C0242656
+Male,64 - 90,Active Smoker,2.0,IV,,,Progression,Intravenous and oral chemotherapy,28/04/2009,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,No information,Intravenous chemotherapy,19/08/2016,2.0,"['Carboplatin', 'Vinorelbine']",NR - C0445106
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,,,No progression,Neoadjuvant chemotherapy,04/11/2015,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,Active Smoker,,IV,,,No progression,Intravenous chemotherapy,27/01/2015,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Female,30 - 49,Active Smoker,,IIIB,,,Progression,Intravenous and oral chemotherapy,11/02/2011,3.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Adjuvant chemotherapy,21/09/2018,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,23/07/2010,5.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,08/05/2019,2.0,['Pembrolizumab'],EE - C0677946
+Male,49 - 64,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,07/10/2019,2.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Female,64 - 90,Active Smoker,0.0,IVB,,,No information,Intravenous chemotherapy,04/02/2020,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,64 - 90,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,03/04/2015,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Exon 21,C4289654,Progression,Targeted oral therapy,23/10/2015,7.0,"['Gefitinib', 'Olaparib']",EE - C0677946
+Male,49 - 64,Active Smoker,1.0,IIIB,,,,Concomitant chemotherapy-radiotherapy,06/09/2010,3.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Neoadjuvant chemotherapy,04/08/2008,6.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Active Smoker,0.0,IIIB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Sequential chemotherapy-radiotherapy,11/09/2009,4.0,"['Cisplatin', 'Docetaxel']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,28/12/2016,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVB,,,No information,Intravenous and oral chemotherapy,12/09/2014,2.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,07/04/2015,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,30 - 49,Active Smoker,0.0,IIIA,,,Progression,Intravenous chemotherapy,26/02/2014,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,16/09/2009,6.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIB,,,Progression,Intravenous chemotherapy,03/04/2014,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Active Smoker,,IV,,,Progression,Immunotherapy,15/01/2013,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,,,Progression,Intravenous and oral chemotherapy,13/06/2016,1.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIA,,,No progression,Adjuvant chemotherapy,23/01/2015,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Female,64 - 90,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,24/05/2013,6.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,,,Progression,Intravenous chemotherapy,20/11/2020,1.0,"['Carboplatin', 'Etoposide VP16']",NR - C0445106
+Female,49 - 64,Active Smoker,1.0,IV,Exon 19,C4289656,Progression,Targeted oral therapy,18/11/2015,,['Afatinib'],EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVA,,,Progression,Intravenous chemotherapy,09/03/2020,3.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,3.0,IIIB,,,,Sequential chemotherapy-radiotherapy,01/07/2015,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,No Smoker (<100 cigarettes/life time),,IVB,Exon 19,C4289656,Progression,Targeted oral therapy,18/07/2017,,['Afatinib'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,11/12/2018,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Female,64 - 90,Active Smoker,,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Intravenous chemotherapy + immunotherapy,01/02/2019,4.0,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",RP - C1275833
+Male,64 - 90,Active Smoker,,IV,,,No information,Intravenous and oral chemotherapy,20/06/2013,2.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,,,Progression,Neoadjuvant chemotherapy,16/10/2009,6.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIA,,,Relapse,Neoadjuvant chemotherapy,18/07/2016,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,24/10/2016,4.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Female,30 - 49,Former Smoker (> 1 year),1.0,IIIA,Negative,C4725782,Progression,Concomitant chemotherapy-radiotherapy,07/07/2016,6.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IVB,,,Progression,Intravenous chemotherapy,09/01/2018,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,30 - 49,Active Smoker,0.0,IVB,,,Progression,Intravenous chemotherapy,28/06/2018,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,04/02/2019,4.0,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,25/01/2019,,['Afatinib'],RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy,05/09/2017,4.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),2.0,IV,,,No progression,Intravenous and oral chemotherapy,03/09/2015,3.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,17/04/2019,5.0,['Pembrolizumab'],PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIB,,,No progression,Adjuvant chemotherapy,13/09/2019,4.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,19/04/2010,3.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,30 - 49,Active Smoker,0.0,IVB,Exon 21,C4289654,Progression,Targeted oral therapy,29/05/2017,,['Erlotinib'],EE - C0677946
+Female,64 - 90,Former Smoker (> 1 year),1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,03/04/2020,2.0,"['Carboplatin', 'Pemetrexed']",NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),1.0,IV,,,Progression,Intravenous and oral chemotherapy,04/07/2016,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,No information,Intravenous and oral chemotherapy,06/07/2010,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,64 - 90,Active Smoker,,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous and oral chemotherapy,05/06/2020,4.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,5.0,IV,,,Progression,Intravenous and oral chemotherapy,19/05/2017,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,,IV,,,Relapse,Intravenous and oral chemotherapy,27/10/2010,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,15/06/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIB,,,No progression,Adjuvant chemotherapy,22/05/2019,7.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IV,,,Progression,Adjuvant chemotherapy,16/12/2008,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,30 - 49,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,16/10/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,20/10/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Female,30 - 49,No Smoker (<100 cigarettes/life time),1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,13/06/2019,,['Afatinib'],EE - C0677946
+Male,49 - 64,Active Smoker,,IIIB,,,Progression,Neoadjuvant chemotherapy,01/12/2010,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,11/11/2016,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,1.0,IVA,Positive,C4284303,Progression,Intravenous chemotherapy,21/01/2020,4.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),2.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Immunotherapy,23/09/2020,,"['Atezolizumab', 'Bevacizumab']",EE - C0677946
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Neoadjuvant chemotherapy,12/01/2009,3.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,15/08/2008,4.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Female,49 - 64,Active Smoker,1.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Adjuvant chemotherapy,03/07/2015,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Neoadjuvant chemotherapy,22/06/2008,4.0,"['Carboplatin', 'Docetaxel']",PR - C0242656
+Male,64 - 90,Active Smoker,,IA,,,Progression,Intravenous chemotherapy,09/03/2011,1.0,['Pemetrexed'],PR - C0242656
+Male,64 - 90,Active Smoker,,IIIB,Not detected,C0812241/C0442737,Progression,Neoadjuvant chemotherapy,21/10/2013,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Female,64 - 90,Active Smoker,1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy + immunotherapy,23/11/2018,32.0,['Pembrolizumab'],EE - C0677946
+Female,49 - 64,Former Smoker (> 1 year),,IIIB,Exon 19,C4289656,Progression,Sequential chemotherapy-radiotherapy,22/03/2010,2.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,02/12/2019,1.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,49 - 64,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Targeted oral therapy,07/02/2020,,['Osimertinib'],RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,08/03/2016,3.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,,,No information,Intravenous and oral chemotherapy,23/11/2010,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,14/07/2016,2.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IVA,Positive,C4284303,Progression,Intravenous chemotherapy,26/06/2019,4.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,30 - 49,Active Smoker,1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,18/09/2019,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,23/07/2014,2.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,30 - 49,Former Smoker (> 1 year),,IV,Exon 21,C4289654,Progression,Intravenous and oral chemotherapy,19/11/2014,2.0,"['Cisplatin', 'Vinorelbine']",NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,03/05/2017,3.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,30 - 49,Active Smoker,,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,07/09/2018,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Active Smoker,2.0,IV,,,Progression,Intravenous and oral chemotherapy,01/03/2016,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,30 - 49,No Smoker (<100 cigarettes/life time),,IV,Exon 19,C4289656,,Targeted oral therapy,11/04/2014,10.0,['Erlotinib'],PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy,24/08/2015,3.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,49 - 64,Former Smoker (> 1 year),0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,18/05/2015,4.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Active Smoker,,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,04/10/2013,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Active Smoker,,IV,,,Progression,Intravenous chemotherapy,04/03/2015,,['Cisplatin'],PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),,IIIB,,,No progression,Intravenous chemotherapy + immunotherapy,14/11/2017,3.0,"['Carboplatin', 'Paclitaxel', 'Nivolumab']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIB,,,,Neoadjuvant chemotherapy,27/10/2020,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IVA,,,No information,Intravenous chemotherapy,14/10/2019,4.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,28/09/2020,2.0,['Pembrolizumab'],EE - C0677946
+Male,30 - 49,Former Smoker (> 1 year),,IV,,,,Intravenous chemotherapy,22/10/2015,1.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous chemotherapy,08/04/2016,1.0,"['Cyclophosphamide', 'Doxorubicin', 'Vincristine']",NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Neoadjuvant chemotherapy,06/10/2016,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IV,,,Progression,Intravenous chemotherapy,15/03/2014,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,30 - 49,No Smoker (<100 cigarettes/life time),0.0,IVB,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Targeted oral therapy,12/04/2019,,['Alectinib'],RP - C1275833
+Female,49 - 64,Active Smoker,,IV,,,,Intravenous and oral chemotherapy,16/01/2018,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,11/01/2017,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,21/07/2020,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),1.0,IA,,,,Sequential chemotherapy-radiotherapy,03/05/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIA,,,No progression,Concomitant chemotherapy-radiotherapy,05/12/2019,7.0,['Vinorelbine'],EE - C0677946
+Female,49 - 64,Former Smoker (> 1 year),0.0,IIA,non-traslocated FISH,C1332080/C0162789/C4525179,,Neoadjuvant chemotherapy,04/02/2020,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVA,Negative,C4054670,Progression,Intravenous chemotherapy,17/01/2019,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,13/02/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,,IIIB,,,Progression,Intravenous and oral chemotherapy,17/06/2015,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,49 - 64,Active Smoker,,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,01/06/2017,4.0,"['Nivolumab', 'Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,20/01/2021,1.0,"['Carboplatin', 'Pemetrexed']",NR - C0445106
+Male,49 - 64,Former Smoker (> 1 year),1.0,IIA,Negative IHQ,C1332080/C0021044/C0205160,No information,Adjuvant chemotherapy,08/01/2010,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Female,30 - 49,Active Smoker,,IV,,,Progression,Intravenous chemotherapy,24/08/2018,3.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,,,No progression,Intravenous and oral chemotherapy,18/07/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IIIA,,,Progression,Adjuvant chemotherapy,19/04/2018,3.0,['Doxorubicin'],PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),,IV,,,Progression,Intravenous and oral chemotherapy,28/08/2014,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,,IV,,,No progression,Intravenous and oral chemotherapy,12/05/2011,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,03/09/2014,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,08/01/2016,2.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,,IIIC,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,12/02/2020,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,12/03/2019,9.0,['Pembrolizumab'],RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),0.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Adjuvant chemotherapy,15/08/2018,1.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,31/05/2017,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Immunotherapy,24/07/2020,10.0,['Pembrolizumab'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,Relapse,Intravenous and oral chemotherapy,01/06/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,16/02/2018,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IVA,Negative,C4054670,Progression,Intravenous chemotherapy,23/09/2019,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Targeted oral therapy,27/04/2018,,['Afatinib'],RP - C1275833
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,04/03/2017,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,49 - 64,No Smoker (<100 cigarettes/life time),1.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Targeted oral therapy,03/03/2017,,['Crizotinib'],RP - C1275833
+Male,30 - 49,No Smoker (<100 cigarettes/life time),,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,23/08/2013,8.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,16/11/2018,2.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,30 - 49,Active Smoker,,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,15/07/2017,,['Afatinib'],RP - C1275833
+Male,49 - 64,Active Smoker,,IIA,,,Progression,Adjuvant chemotherapy,26/09/2018,4.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),1.0,IIIA,,,Relapse,Sequential chemotherapy-radiotherapy,20/08/2016,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,64 - 90,Active Smoker,1.0,IIIC,,,No information,Intravenous chemotherapy,26/02/2018,1.0,"['Carboplatin', 'Etoposide VP16']",NE - C1883425
+Female,49 - 64,Active Smoker,0.0,IIIA,,,Progression,Neoadjuvant chemotherapy,07/10/2016,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,30 - 49,Former Smoker (> 1 year),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,20/06/2017,3.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy + immunotherapy,03/06/2019,4.0,"['Cisplatin', 'Pemetrexed', 'Pembrolizumab']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,18/08/2014,16.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,04/03/2019,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,23/12/2019,1.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,08/08/2014,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Active Smoker,,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Targeted oral therapy,14/06/2015,,['Crizotinib'],RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),2.0,IV,Exon 21,C4289654,Progression,Intravenous chemotherapy,10/03/2016,1.0,"['Cisplatin', 'Gemcitabine']",NE - C1883425
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,01/12/2016,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,21/07/2015,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,30/12/2010,6.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,49 - 64,Former Smoker (> 1 year),1.0,IA,,,No progression,Adjuvant chemotherapy,04/10/2016,4.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Male,49 - 64,Active Smoker,,IV,,,Progression,Intravenous and oral chemotherapy,01/06/2011,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),1.0,IVA,Negative,C4054670,Progression,Immunotherapy,14/10/2016,7.0,"['Nivolumab', 'Ipilimumab']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVB,Negative,C4054670,Progression,Intravenous chemotherapy,28/10/2019,4.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,,Intravenous chemotherapy,18/08/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,30 - 49,Active Smoker,0.0,IIIB,,,,Intravenous chemotherapy,16/12/2011,5.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,,IV,,,No progression,Intravenous and oral chemotherapy,05/05/2010,5.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Female,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,11/08/2016,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,16/05/2016,1.0,"['Carboplatin', 'Paclitaxel']",NE - C1883425
+Male,30 - 49,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,04/03/2014,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,09/02/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Female,64 - 90,Active Smoker,,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Neoadjuvant chemotherapy,22/03/2018,3.0,"['Carboplatin', 'Paclitaxel', 'Nivolumab']",NE - C1883425
+Male,64 - 90,Active Smoker,0.0,IIIB,,,No progression,Neoadjuvant chemotherapy,05/07/2017,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IB,non-traslocated FISH,C1332080/C0162789/C4525179,Relapse,Intravenous chemotherapy,13/09/2016,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Active Smoker,0.0,IV,,,No progression,Intravenous and oral chemotherapy,06/07/2017,6.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,,IIIA,,,Progression,Sequential chemotherapy-radiotherapy,01/12/2011,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIA,Positive,C4284303,,Neoadjuvant chemotherapy,15/07/2020,4.0,"['Nivolumab', 'Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),0.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy,12/06/2014,3.0,"['Carboplatin', 'Paclitaxel']",NE - C1883425
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IIIB,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Targeted oral therapy,04/01/2019,,['Crizotinib'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IB,,,No progression,Adjuvant chemotherapy,11/01/2017,2.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,64 - 90,Active Smoker,,IIIA,,,Progression,Sequential chemotherapy-radiotherapy,23/01/2017,5.0,"['Carboplatin', 'Etoposide VP16']",RC - C1275810
+Male,64 - 90,Active Smoker,,Limited,,,Progression,Intravenous and oral chemotherapy,11/02/2009,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),1.0,IIA,,,Progression,Intravenous chemotherapy,15/03/2013,4.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Female,64 - 90,Former Smoker (> 1 year),,IVA,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,10/04/2018,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,20/09/2018,7.0,['Pembrolizumab'],PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),1.0,IVB,Exon 19,C4289656,,Intravenous chemotherapy + immunotherapy,15/01/2020,,"['Erlotinib', 'Bevacizumab']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Neoadjuvant chemotherapy,11/08/2017,3.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,23/11/2015,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous and oral chemotherapy,24/11/2017,4.0,"['Carboplatin', 'Etoposide VP16', 'Veliparib(ABT-888) vs Placebo']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,,,Progression,Intravenous and oral chemotherapy,27/06/2016,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,02/11/2015,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Active Smoker,,IIIA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Oral chemotherapy,13/10/2009,6.0,['Vinorelbine'],RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,07/11/2018,1.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVB,,,Progression,Intravenous and oral chemotherapy,18/11/2019,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,30/11/2018,,['Gefitinib'],NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,Positive T790M,C4725625,Progression,Targeted oral therapy,26/05/2015,7.0,['Gefitinib'],RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,09/02/2016,3.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),2.0,IIIA,,,Progression,Neoadjuvant chemotherapy,15/05/2017,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,Limited,,,Relapse,Intravenous and oral chemotherapy,21/04/2010,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),1.0,IV,,,Progression,Intravenous and oral chemotherapy,24/09/2017,2.0,"['Carboplatin', 'Etoposide VP16', 'Veliparib(ABT-888) vs Placebo']",NE - C1883425
+Female,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,09/10/2015,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IV,Exon 19,C4289656,Progression,Targeted oral therapy,15/09/2014,6.0,['Erlotinib'],RP - C1275833
+Female,64 - 90,Active Smoker,0.0,IVB,Positive,C4284303,Progression,Intravenous chemotherapy,03/12/2019,4.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Female,49 - 64,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous chemotherapy + immunotherapy,11/08/2017,4.0,"['Carboplatin', 'Pemetrexed', 'Nivolumab']",RP - C1275833
+Female,49 - 64,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,24/09/2018,20.0,"['Pembrolizumab', 'Otro']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IIIA,,,Progression,Adjuvant chemotherapy,04/10/2017,4.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Neoadjuvant chemotherapy,10/01/2020,4.0,"['Carboplatin', 'Paclitaxel', 'Nivolumab']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),0.0,IIA,,,Progression,Adjuvant chemotherapy,14/03/2017,4.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Female,49 - 64,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,27/01/2015,4.0,"['Cisplatin', 'Pemetrexed']",NE - C1883425
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,,Neoadjuvant chemotherapy,17/07/2020,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,17/03/2016,4.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Female,49 - 64,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,26/03/2019,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,04/08/2017,4.0,"['Nivolumab', 'Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,Limited,,,Progression,Intravenous and oral chemotherapy,05/09/2008,6.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,49 - 64,Active Smoker,0.0,Limited,,,No information,Intravenous and oral chemotherapy,25/08/2008,5.0,"['Carboplatin', 'Etoposide VP16']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,Negative,C4725782,Progression,Intravenous chemotherapy,27/04/2012,4.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous and oral chemotherapy,04/01/2010,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,30 - 49,Active Smoker,4.0,IIIA,,,Progression,Concomitant chemotherapy-radiotherapy,16/02/2010,3.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,,IIIA,,,No progression,Neoadjuvant chemotherapy,02/03/2010,3.0,"['Cisplatin', 'Vinorelbine']",NR - C0445106
+Female,30 - 49,Former Smoker (> 1 year),,IIIA,Negative,C4725782,Progression,Neoadjuvant chemotherapy,18/02/2010,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,,IIIB,,,Progression,Sequential chemotherapy-radiotherapy,10/03/2010,5.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Active Smoker,2.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,30/12/2014,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,,Intravenous and oral chemotherapy,12/06/2014,3.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Active Smoker,,IIIA,,,No progression,Intravenous and oral chemotherapy,06/10/2010,6.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IIIA,Exon 19,C4289656,Progression,Neoadjuvant chemotherapy,16/08/2012,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IIIA,,,Progression,Neoadjuvant chemotherapy,22/12/2010,,['Gefitinib'],RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVB,Negative,C4054670,Progression,Intravenous chemotherapy,14/05/2019,3.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),1.0,Extended,,,Progression,Intravenous chemotherapy,13/05/2020,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,18/07/2017,4.0,"['Cisplatin', 'Pemetrexed', 'Nivolumab']",PR - C0242656
+Female,49 - 64,Active Smoker,0.0,IIIB,,,Progression,Intravenous chemotherapy,08/06/2011,6.0,"['Cisplatin', 'Vinorelbine']",EE - C0677946
+Male,49 - 64,Active Smoker,,IV,Other,,Progression,Intravenous chemotherapy,05/06/2012,6.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,64 - 90,Former Smoker (> 1 year),0.0,IVA,,,Progression,Intravenous chemotherapy,12/02/2020,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Active Smoker,1.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,21/08/2015,3.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,49 - 64,Active Smoker,,Extended,,,,Intravenous chemotherapy,09/10/2020,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Intravenous chemotherapy,08/08/2017,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),,IIB,,,Progression,Adjuvant chemotherapy,17/06/2015,4.0,"['Carboplatin', 'Paclitaxel']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,09/08/2019,2.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,No Smoker (<100 cigarettes/life time),,IIIA,Exon 19,C4289656,Progression,Neoadjuvant chemotherapy,05/02/2013,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,22/02/2019,,['Afatinib'],RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,,,Progression,Neoadjuvant chemotherapy,11/09/2019,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,30 - 49,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,07/05/2015,3.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IVB,Exon 19,C4289656,Progression,Targeted oral therapy,12/09/2013,,['Gefitinib'],PR - C0242656
+Female,49 - 64,Former Smoker (> 1 year),2.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy + immunotherapy,15/09/2013,5.0,"['Cisplatin', 'Pemetrexed', 'Bevacizumab']",EE - C0677946
+Male,30 - 49,Active Smoker,,IV,Negative,C4725782,Progression,Intravenous chemotherapy,21/11/2013,6.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Female,64 - 90,Former Smoker (> 1 year),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,31/07/2018,,['Afatinib'],NE - C1883425
+Female,49 - 64,Active Smoker,,IVB,Negative,C4054670,Progression,Intravenous chemotherapy,29/09/2020,2.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,30 - 49,No Smoker (<100 cigarettes/life time),,IIIB,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,12/03/2014,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,No information,Targeted oral therapy,02/08/2016,,['Afatinib'],RP - C1275833
+Male,49 - 64,Active Smoker,1.0,IIIA,,,No progression,Neoadjuvant chemotherapy,12/06/2015,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Exon 21,C4289654,Progression,Targeted oral therapy,28/05/2014,2.0,['Afatinib'],PR - C0242656
+Male,30 - 49,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,20/12/2019,4.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,No progression,Sequential chemotherapy-radiotherapy,05/05/2015,3.0,['Vinorelbine'],RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous and oral chemotherapy,15/05/2020,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,Active Smoker,,IIIA,,,Progression,Adjuvant chemotherapy,10/10/2018,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IIIA,Traslocated FISH,C1332080/C0162789/C4329227,Relapse,Adjuvant chemotherapy,07/01/2015,4.0,"['Cisplatin', 'Vinorelbine']",NE - C1883425
+Female,49 - 64,Former Smoker (> 1 year),2.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,15/12/2014,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,Other,,Progression,Intravenous and oral chemotherapy,10/02/2012,10.0,"['Carboplatin', 'Pemetrexed', 'Gefitinib']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIA,,,No information,Adjuvant chemotherapy,16/03/2015,1.0,"['Carboplatin', 'Paclitaxel']",RC - C1275810
+Male,30 - 49,Active Smoker,,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,15/03/2014,3.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Other,,Progression,Targeted oral therapy,30/04/2014,,['Erlotinib'],EE - C0677946
+Female,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Immunotherapy,22/03/2016,1.0,"['Nivolumab', 'Ipilimumab']",NE - C1883425
+Male,64 - 90,Former Smoker (> 1 year),,IIB,Not detected,C0812241/C0442737,Relapse,Intravenous and oral chemotherapy,12/11/2018,4.0,"['Carboplatin', 'Vinorelbine']",EE - C0677946
+Male,30 - 49,Former Smoker (> 1 year),,IIIA,Negative IHQ,C1332080/C0021044/C0205160,No information,Neoadjuvant chemotherapy,,,,RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,25/07/2014,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,22/05/2015,1.0,"['Pemetrexed', 'Carboplatin']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,,4.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Active Smoker,,IIIA,,,No information,Neoadjuvant chemotherapy,29/05/2015,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,27/05/2015,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,,IIB,,,No information,Neoadjuvant chemotherapy,08/06/2015,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIB,,,,Neoadjuvant chemotherapy,12/06/2015,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Relapse,Neoadjuvant chemotherapy,15/01/2015,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,01/07/2015,4.0,"['Carboplatin', 'Pemetrexed', 'Demcizumab vs Placebo']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IV,Negative T790M,C4329762,,Targeted oral therapy,12/06/2015,,['Erlotinib'],EE - C0677946
+Male,49 - 64,Unknown,,IV,,,,Intravenous chemotherapy,24/06/2015,1.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IB,,,Relapse,Concomitant chemotherapy-radiotherapy,02/07/2018,5.0,['Paclitaxel'],NE - C1883425
+Female,49 - 64,Former Smoker (> 1 year),,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,15/05/2020,4.0,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIA,,,Progression,Neoadjuvant chemotherapy,14/07/2015,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,No progression,Concomitant chemotherapy-radiotherapy,07/09/2015,6.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IIIA,,,No progression,Neoadjuvant chemotherapy,08/09/2015,2.0,"['Carboplatin', 'Vinorelbine']",NE - C1883425
+Male,49 - 64,Active Smoker,,IIA,,,,Targeted oral therapy,03/07/2015,,['Gefitinib'],EE - C0677946
+Female,30 - 49,Active Smoker,,IV,Negative,C4725782,,Intravenous chemotherapy,08/04/2015,6.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IIIA,,,No information,Neoadjuvant chemotherapy,08/06/2015,5.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),1.0,IIIA,,,No progression,Neoadjuvant chemotherapy,15/03/2017,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IIB,,,No progression,Adjuvant chemotherapy,01/03/2016,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,01/03/2016,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,01/03/2016,5.0,"['Cisplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,11/01/2016,6.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Female,64 - 90,Former Smoker (> 1 year),,IIIA,Exon 19,C4289656,Progression,Neoadjuvant chemotherapy,20/01/2016,3.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Adjuvant chemotherapy,01/03/2016,3.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,15/02/2016,10.0,"['Nivolumab', 'Ipilimumab']",RP - C1275833
+Male,49 - 64,Active Smoker,1.0,IV,,,Progression,Immunotherapy,08/02/2016,2.0,['Durvalumab (MEDI4736)'],PR - C0242656
+Male,49 - 64,Active Smoker,,IIIA,,,Progression,Adjuvant chemotherapy,24/05/2016,4.0,"['Cisplatin', 'Vinorelbine']",NR - C0445106
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,22/03/2016,2.0,['Pemetrexed'],PR - C0242656
+Male,49 - 64,Active Smoker,2.0,IB,,,No information,Neoadjuvant chemotherapy,07/04/2016,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,10/11/2016,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,Negative,C4054670,Progression,Intravenous chemotherapy + immunotherapy,14/03/2016,4.0,"['Nivolumab', 'Carboplatin', 'Gemcitabine']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,27/09/2016,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy,20/04/2017,7.0,['Pemetrexed'],NE - C1883425
+Male,64 - 90,Active Smoker,0.0,IIIB,,,No progression,Intravenous chemotherapy,13/07/2016,6.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,02/06/2016,3.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,23/05/2016,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Active Smoker,,IIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Neoadjuvant chemotherapy,23/05/2016,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,,,Progression,Intravenous chemotherapy,10/05/2016,4.0,"['Cisplatin', 'Gemcitabine']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Immunotherapy,01/06/2016,52.0,['Nivolumab'],RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIIA,Negative,C4725782,Progression,Neoadjuvant chemotherapy,02/06/2016,3.0,"['Cisplatin', 'Vinorelbine']",PR - C0242656
+Male,30 - 49,Active Smoker,,IB,,,No progression,Adjuvant chemotherapy,20/07/2016,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,01/06/2016,3.0,"['Nivolumab', 'Ipilimumab']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IB,,,No progression,Adjuvant chemotherapy,,4.0,"['Carboplatin', 'Paclitaxel']",RC - C1275810
+Female,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,24/08/2016,3.0,['Nivolumab'],PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Immunotherapy,07/06/2016,10.0,"['Nivolumab', 'Ipilimumab']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IIB,non-traslocated FISH,C1332080/C0162789/C4525179,,Adjuvant chemotherapy,01/03/2016,,['Gefitinib'],RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IVB,Exon 21,C4289654,Progression,Targeted oral therapy,17/08/2017,,['Erlotinib'],RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),3.0,IV,Exon 21,C4289654,Progression,Targeted oral therapy,18/07/2016,,['Gefitinib'],PR - C0242656
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IB,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Intravenous chemotherapy,11/11/2016,4.0,"['Carboplatin', 'Paclitaxel']",EE - C0677946
+Male,64 - 90,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,09/08/2016,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IIA,,,No progression,Adjuvant chemotherapy,04/10/2016,4.0,"['Carboplatin', 'Paclitaxel']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),,IVB,Positive,C4284303,Progression,Intravenous chemotherapy,08/07/2020,1.0,"['Carboplatin', 'Vinorelbine']",NR - C0445106
+Male,49 - 64,Active Smoker,,IV,Positive,C4284303,Progression,Immunotherapy,13/09/2016,1.0,"['Nivolumab', 'Ipilimumab']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIB,,,Progression,Oral chemotherapy,24/01/2020,2.0,['Vinorelbine'],NR - C0445106
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Positive T790M,C4725625,Progression,Targeted oral therapy,21/11/2016,,['Afatinib'],NE - C1883425
+Male,49 - 64,Former Smoker (> 1 year),0.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Immunotherapy,23/02/2017,17.0,"['Nivolumab', 'Ipilimumab']",EE - C0677946
+Female,64 - 90,Former Smoker (> 1 year),,IV,Exon 21,C4289654,Progression,Targeted oral therapy,15/07/2013,,['Erlotinib'],RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,No information,Intravenous chemotherapy,04/06/2018,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Female,30 - 49,No Smoker (<100 cigarettes/life time),,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,No information,Intravenous chemotherapy,27/06/2017,3.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Exon 19,C4289656,No progression,Targeted oral therapy,03/07/2017,1.0,['Afatinib'],NR - C0445106
+Female,64 - 90,No Smoker (<100 cigarettes/life time),2.0,IVB,Exon 21,C4289654,Progression,Targeted oral therapy,27/11/2017,,['Erlotinib'],EE - C0677946
+Female,64 - 90,Former Smoker (> 1 year),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Sequential chemotherapy-radiotherapy,05/07/2017,5.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,Progression,Intravenous chemotherapy,24/10/2016,4.0,"['Carboplatin', 'Gemcitabine']",RP - C1275833
+Female,64 - 90,Active Smoker,1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,,,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Male,49 - 64,Former Smoker (> 1 year),0.0,IIB,,,No progression,Adjuvant chemotherapy,26/09/2017,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,49 - 64,Active Smoker,,IIIB,,,No progression,Intravenous chemotherapy,12/04/2019,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,15/12/2014,4.0,"['Cyclophosphamide', 'Pemetrexed']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IVB,,,Progression,Intravenous chemotherapy,07/03/2018,4.0,"['Carboplatin', 'Pemetrexed', 'Otro']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IV,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Intravenous chemotherapy + immunotherapy,22/08/2017,4.0,"['Carboplatin', 'Pemetrexed', 'Nivolumab']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IV,,,Progression,Intravenous chemotherapy,11/07/2018,4.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Male,49 - 64,Active Smoker,,IIIB,,,No progression,Intravenous chemotherapy + immunotherapy,09/10/2017,4.0,"['Cisplatin', 'Vinorelbine', 'Durvalumab (MEDI4736)']",RC - C1275810
+Male,49 - 64,Former Smoker (> 1 year),,IVB,Negative,C4054670,,Intravenous chemotherapy,23/10/2020,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,64 - 90,No Smoker (<100 cigarettes/life time),,IVB,Exon 21,C4289654,Progression,Targeted oral therapy,18/09/2017,,['Afatinib'],NR - C0445106
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,Progression,Neoadjuvant chemotherapy,28/06/2018,3.0,"['Vinorelbine', 'Carboplatin']",PR - C0242656
+Male,30 - 49,Former Smoker (> 1 year),0.0,IV,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,02/10/2017,4.0,"['Carboplatin', 'Paclitaxel']",PR - C0242656
+Female,49 - 64,No Smoker (<100 cigarettes/life time),,IV,Exon 19,C4289656,No information,Targeted oral therapy,21/07/2017,,['Afatinib'],RC - C1275810
+Male,49 - 64,Active Smoker,0.0,IV,,,Progression,Intravenous and oral chemotherapy,18/09/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IV,Exon 19,C4289656,Progression,Targeted oral therapy,15/02/2015,,['Afatinib'],EE - C0677946
+Female,64 - 90,Active Smoker,,IVA,,,Progression,Intravenous chemotherapy + immunotherapy,04/10/2017,4.0,"['Pembrolizumab', 'Carboplatin', 'Paclitaxel']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IV,,,Progression,Intravenous and oral chemotherapy,17/10/2017,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,,IIIA,,,Progression,Neoadjuvant chemotherapy,08/11/2017,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Active Smoker,1.0,IVA,Negative,C4054670,Relapse,Intravenous chemotherapy,06/02/2018,4.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),1.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy,18/12/2017,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVB,,,Progression,Intravenous chemotherapy,21/12/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIA,,,No progression,Neoadjuvant chemotherapy,22/11/2017,3.0,"['Nivolumab', 'Paclitaxel', 'Carboplatin']",RC - C1275810
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IIIA,,,Progression,Neoadjuvant chemotherapy,07/12/2017,3.0,"['Vinorelbine', 'Cisplatin']",RP - C1275833
+Male,49 - 64,Active Smoker,,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,26/12/2017,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIA,,,No progression,Adjuvant chemotherapy,13/02/2018,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),1.0,IVB,,,Progression,Intravenous chemotherapy,16/08/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IIIB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,12/01/2018,4.0,"['Cisplatin', 'Pemetrexed']",PR - C0242656
+Female,30 - 49,Former Smoker (> 1 year),2.0,IA,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,05/04/2018,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IIIA,,,No progression,Adjuvant chemotherapy,10/04/2018,4.0,"['Carboplatin', 'Vinorelbine']",RC - C1275810
+Female,49 - 64,Active Smoker,2.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,21/02/2018,3.0,"['Carboplatin', 'Pemetrexed']",RP - C1275833
+Male,49 - 64,Active Smoker,,IV,,,,Intravenous chemotherapy,29/01/2018,1.0,"['Carboplatin', 'Etoposide VP16', 'Veliparib(ABT-888) vs Placebo']",NE - C1883425
+Female,64 - 90,No Smoker (<100 cigarettes/life time),1.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,27/04/2018,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Active Smoker,,Extended,,,,Intravenous chemotherapy,05/08/2020,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IV,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Targeted oral therapy,03/05/2018,8.0,['Crizotinib'],RP - C1275833
+Male,64 - 90,Active Smoker,,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,03/04/2019,2.0,"['Carboplatin', 'Pemetrexed']",NR - C0445106
+Male,49 - 64,No Smoker (<100 cigarettes/life time),,IB,non-traslocated FISH,C1332080/C0162789/C4525179,Relapse,Adjuvant chemotherapy,15/05/2013,4.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),2.0,IVB,,,Progression,Intravenous chemotherapy,24/05/2018,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVA,Negative,C4725782,,Intravenous chemotherapy,,6.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),2.0,IV,Negative,C4725782,No progression,Intravenous chemotherapy,20/06/2018,1.0,"['Carboplatin', 'Pemetrexed']",NE - C1883425
+Female,49 - 64,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,07/08/2018,,['Afatinib'],RP - C1275833
+Female,30 - 49,Active Smoker,1.0,IB,non-traslocated FISH,C1332080/C0162789/C4525179,Relapse,Adjuvant chemotherapy,04/11/2020,3.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,15/03/2019,4.0,"['Cisplatin', 'Vinorelbine']",RP - C1275833
+Male,30 - 49,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy + immunotherapy,07/01/2020,4.0,"['Carboplatin', 'Pembrolizumab', 'Pemetrexed']",RP - C1275833
+Female,49 - 64,Active Smoker,1.0,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,No progression,Neoadjuvant chemotherapy,12/11/2018,3.0,"['Cisplatin', 'Pemetrexed', 'Nivolumab']",RP - C1275833
+Female,49 - 64,Former Smoker (> 1 year),2.0,IV,Negative,C4725782,Progression,Intravenous chemotherapy + immunotherapy,17/08/2016,3.0,"['Cisplatin', 'Pemetrexed', 'Pembrolizumab vs placebo']",RP - C1275833
+Female,49 - 64,Active Smoker,0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,05/02/2019,4.0,"['Carboplatin', 'Pemetrexed']",EE - C0677946
+Male,49 - 64,Active Smoker,0.0,IIIB,,,Progression,Neoadjuvant chemotherapy,22/01/2019,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IVB,Negative,C4054670,Progression,Intravenous chemotherapy,29/01/2019,4.0,"['Carboplatin', 'Vinorelbine']",PR - C0242656
+Male,64 - 90,Former Smoker (> 1 year),,IIIB,Negative,C4054670,Progression,Adjuvant chemotherapy,,6.0,"['Carboplatin', 'Gemcitabine']",EE - C0677946
+Male,49 - 64,Former Smoker (> 1 year),1.0,IVA,Negative,C4054670,Progression,Concomitant chemotherapy-radiotherapy,04/03/2019,6.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),1.0,IV,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Targeted oral therapy,13/03/2019,,"['Dabrafenib', 'Trametinib']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),,IVA,Traslocated FISH,C1332080/C0162789/C4329227,Progression,Targeted oral therapy,26/03/2019,,['Alectinib'],RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),,IB,,,Relapse,Targeted oral therapy,15/12/2017,,['Afatinib'],RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy + immunotherapy,22/05/2019,4.0,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",EE - C0677946
+Female,49 - 64,Active Smoker,0.0,IIIC,,,No progression,Intravenous and oral chemotherapy,15/04/2019,2.0,"['Cisplatin', 'Vinorelbine']",NE - C1883425
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IV,Positive T790M,C4725625,Progression,Sequential chemotherapy-radiotherapy,02/06/2015,4.0,"['Carboplatin', 'Pemetrexed', 'Bevacizumab']",PR - C0242656
+Female,30 - 49,Active Smoker,0.0,IVB,Positive,C4284303,,Immunotherapy,17/09/2019,1.0,"['Pembrolizumab', 'Otro']",NR - C0445106
+Male,64 - 90,Active Smoker,,IIIB,Negative,C4054670,,Neoadjuvant chemotherapy,27/05/2019,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Female,49 - 64,No Smoker (<100 cigarettes/life time),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Targeted oral therapy,17/09/2019,,['Osimertinib'],RP - C1275833
+Male,49 - 64,Active Smoker,0.0,IVB,Negative IHQ,C1332080/C0021044/C0205160,Progression,Intravenous chemotherapy,15/09/2018,2.0,"['Cisplatin', 'Pemetrexed']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,24/06/2019,1.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Female,49 - 64,Active Smoker,0.0,IIIA,,,No progression,Neoadjuvant chemotherapy,10/10/2019,3.0,"['Paclitaxel', 'Carboplatin']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVB,,,Progression,Intravenous chemotherapy,23/08/2018,2.0,"['Cisplatin', 'Paclitaxel']",PR - C0242656
+Male,64 - 90,Active Smoker,0.0,IVA,,,Progression,Intravenous and oral chemotherapy,22/07/2019,4.0,"['Cisplatin', 'Etoposide VP16']",EE - C0677946
+Male,49 - 64,Active Smoker,0.0,IVB,,,Progression,Intravenous chemotherapy,20/05/2019,4.0,"['Cisplatin', 'Etoposide VP16']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous chemotherapy,27/08/2019,2.0,"['Carboplatin', 'Pemetrexed']",NE - C1883425
+Female,49 - 64,Active Smoker,0.0,IVB,,,Progression,Intravenous and oral chemotherapy,29/11/2019,4.0,"['Carboplatin', 'Etoposide VP16']",RP - C1275833
+Female,49 - 64,Active Smoker,1.0,IIB,non-traslocated FISH,C1332080/C0162789/C4525179,,Adjuvant chemotherapy,18/09/2020,4.0,"['Cisplatin', 'Vinorelbine']",RC - C1275810
+Male,64 - 90,Former Smoker (> 1 year),0.0,IIIB,,,No progression,Neoadjuvant chemotherapy,21/01/2020,3.0,"['Carboplatin', 'Vinorelbine']",RP - C1275833
+Male,64 - 90,Active Smoker,1.0,IIIA,,,No progression,Neoadjuvant chemotherapy,10/02/2020,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Female,64 - 90,Active Smoker,,IIIA,non-traslocated FISH,C1332080/C0162789/C4525179,,Neoadjuvant chemotherapy,15/04/2020,3.0,"['Carboplatin', 'Paclitaxel']",RP - C1275833
+Male,49 - 64,Former Smoker (> 1 year),0.0,IB,,,Relapse,Immunotherapy,23/11/2020,4.0,['Pembrolizumab'],PR - C0242656
+Female,30 - 49,Former Smoker (> 1 year),2.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,07/04/2020,4.0,"['Carboplatin', 'Paclitaxel', 'Pembrolizumab']",RP - C1275833
+Male,64 - 90,Former Smoker (> 1 year),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,07/02/2020,4.0,['Pembrolizumab'],PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,25/05/2020,2.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
+Male,49 - 64,Active Smoker,0.0,IVA,,,Progression,Intravenous chemotherapy + immunotherapy,22/07/2020,3.0,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",PR - C0242656
+Male,49 - 64,Active Smoker,,Extended,,,Progression,Intravenous chemotherapy,27/05/2020,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy + immunotherapy,05/06/2020,,"['Carboplatin', 'Pemetrexed', 'Pembrolizumab']",NR - C0445106
+Male,64 - 90,Former Smoker (> 1 year),,IIIA,,,,Neoadjuvant chemotherapy,24/07/2020,4.0,"['Carboplatin', 'Paclitaxel', 'Nivolumab']",RP - C1275833
+Male,64 - 90,Active Smoker,0.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Intravenous chemotherapy,09/10/2020,1.0,"['Carboplatin', 'Pemetrexed']",NR - C0445106
+Male,49 - 64,Former Smoker (> 1 year),0.0,IVA,non-traslocated FISH,C1332080/C0162789/C4525179,Progression,Immunotherapy,18/08/2020,2.0,['Pembrolizumab'],PR - C0242656
+Male,64 - 90,Active Smoker,1.0,IVB,non-traslocated FISH,C1332080/C0162789/C4525179,,Intravenous and oral chemotherapy,07/09/2020,2.0,"['Carboplatin', 'Etoposide VP16']",PR - C0242656
+Female,64 - 90,No Smoker (<100 cigarettes/life time),0.0,Other,,,Progression,Intravenous chemotherapy,15/03/2020,4.0,"['Carboplatin', 'Pemetrexed']",PR - C0242656
